@@ -1,4 +1,5 @@
 Hi there! 👋
+
 Welcome to this Sorting Algorithms in C repository! 🚀
 
 Here, you'll find various sorting algorithms implemented in C, including Bubble Sort, Quick Sort, Merge Sort, Selection Sort, Heap Sort, and more. These implementations cover both arrays and linked lists, helping you understand different sorting techniques.
